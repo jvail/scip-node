@@ -1,11 +1,6 @@
 /*
-
-  TODO
-  auf der node.js console erscheint manchmal (test mit 1000 Anfragen) die Ausgabe von SCIP:
-  pressed CTRL-C 1 times (5 times for forcing termination)
-  Ist SCIP nicht korrekt beendet worden?
-
-
+  Copyright 2015 Jan Vaillant <jan.vaillant@zalf.de>
+  Copyright 2015 Stefan Heinz <heinz@zib.de>
 */
 
 /* define SCIP_DEBUG to enable debug messages */
