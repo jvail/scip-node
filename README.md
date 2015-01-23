@@ -1,2 +1,2 @@
 # scip-node
-Experimental SCIP node.js addon
+Experimental [SCIP](http://scip.zib.de/) node.js addon
